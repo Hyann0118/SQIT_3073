@@ -26,3 +26,4 @@ def display_loan_details(loan_details):
             print(f"DSR: {details['dsr']:.2f}%")
             
 
+
