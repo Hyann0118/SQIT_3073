@@ -20,7 +20,7 @@ def calculate_dsr(mon_income, total_commitments):
 # function for calculate debt commitments
 def debt_commitments(other_commitments, monthly_instalment):
     debt_commitments= other_commitments+monthly_instalment
-    return 
+    return debt_commitments
 
 #function to display loan details
 def display_loan_details(details):
